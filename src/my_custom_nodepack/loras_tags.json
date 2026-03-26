@@ -1,0 +1,37 @@
+{
+    "PONY\\Char\\VelmaXL.safetensors": [
+        "velma"
+    ],
+    "PONY\\1182 dirty_v1_pony.safetensors": [
+        "ruanyi1182,dirty,injury,torn clothes"
+    ],
+    "PONY\\Char\\anim\\GwenTenXL-10.safetensors": [
+        "Gwendolyn_Tennyson"
+    ],
+    "PONY\\Char\\anim\\GwenstacySDXL-10.safetensors": [
+        "GwenstacySDXL, short hair, blue eyes, blonde hair, piercing, asymmetrical hair, eyebrow piercing",
+        "shoes, hood, bodysuit, hood down, sneakers, skin tight, silk, spider web, spider web print, hooded bodysuit"
+    ],
+    "PONY\\concept\\underview.safetensors": [
+        "mtu virus"
+    ],
+    "PONY\\concept\\virgin_destroyer_sweaterPony.safetensors": [
+        "virgin destroyer sweater"
+    ],
+    "PONY\\concept\\wardrobe-malfunction-ponyxl-lora-nochekaiser.safetensors": [
+        "<lora:wardrobe-malfunction-ponyxl-lora-nochekaiser:1>, wardrobe malfunction, bikini, accidental exposure, untied bikini, strap break, bursting breasts, breast slip, navel, surprised, embarrassed,"
+    ],
+    "PONY\\concept\\defeated after sex xl v1 goofy.safetensors": [
+        "defeated sex,after sex,broken,empty eyes"
+    ],
+    "PONY\\Char\\anim\\GwenDRAMA2.safetensors": [
+        "GwenDRAMA,1girl,short hair,black hair,cleavage,pantyhose,green hair,choker,black eyes,makeup,black choker,lipstick,skirt,midriff"
+    ],
+    "PONY\\Char\\anim\\Amy_Wong-Kroker_Futurama.safetensors": [
+        "black hair, short hair, black eyes, nostra666, amy_wong, asian, woman, girl, amy wong-kroker, futurama, 1girl, solo, "
+    ],
+    "PONY\\Char\\anim\\Misty_Pokemon_PDXL_v2.safetensors": [
+        "zzMisty, green eyes, orange hair, short hair, side ponytail,",
+        "zzMisty, green eyes, orange hair, short hair, side ponytail,  shorts, suspenders, midriff, yellow crop top, navel, denim shorts,"
+    ]
+}
