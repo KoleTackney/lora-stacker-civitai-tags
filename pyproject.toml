@@ -7,7 +7,7 @@ name = "lora-stacker-civitai-tags"
 version = "1.0.0"
 description = "Fetches CivitAI trainedWords (trigger tags) for a LoRA stack and returns them as a comma-separated string."
 authors = [
-  {name = "Lorastack Tag autoloader", email = "you@gmail.com"}
+  {name = "Lorastack Tag autoloader", email = "kole.tackney@gmail.com"}
 ]
 readme = "README.md"
 license = { file = "LICENSE" }
@@ -16,7 +16,6 @@ classifiers = []
 dependencies = [
     "requests",
 ]
-
 
 
 [project.optional-dependencies]
