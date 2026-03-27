@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "lora-stacker-civitai-tags"
-version = "1.0.0"
+version = "1.0.1"
 description = "Fetches CivitAI trainedWords (trigger tags) for a LoRA stack and returns them as a comma-separated string."
 authors = [
   {name = "Lorastack Tag autoloader", email = "kole.tackney@gmail.com"}
@@ -42,6 +42,9 @@ Tags = ["lora", "civitai", "efficiency-nodes", "lora-stacker", "tags", "prompt"]
 Repository = "https://github.com/KoleTackney/lora-stacker-civitai-tags"
 
 includes = []
+
+[tool.setuptools.packages.find]
+where = ["src"]
 
 [tool.setuptools.package-data]
 "*" = ["*.*"]

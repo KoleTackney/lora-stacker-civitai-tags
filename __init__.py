@@ -6,5 +6,5 @@ __author__ = "Lorastack Tag autoloader"
 __email__ = "kole.tackney@gmail.com"
 __version__ = "1.0.1"
 
-__all__ = ['NODE_CLASS_MAPPINGS', 'NODE_DISPLAY_NAME_MAPPINGS', 'CC_VERSION']
+__all__ = ['NODE_CLASS_MAPPINGS', 'NODE_DISPLAY_NAME_MAPPINGS']
 
